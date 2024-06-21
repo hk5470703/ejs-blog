@@ -1,0 +1,14 @@
+
+body .navbar{
+    height: 150px;
+    font-size: 30px;
+}
+.navbar-brand{
+    font-size: 50px;
+    width: 60%;
+    padding-left: 80px;
+}
+ul{
+    display: flex;
+    gap: 20px;
+}
